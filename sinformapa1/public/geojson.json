@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 1,
+          "name": "Rota de possível fuga"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -42.818845,
+              -5.087560
+            ],
+            [
+              -42.819993,
+              -5.085352
+            ],
+            [
+              -42.822766,
+              -5.086809
+            ]
+          ]
+        }
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 2,
+          "name": "Rota de possível fuga"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -42.817554,
+              -5.086864
+            ],
+            [
+              -42.818666,
+              -5.084707
+            ],
+            [
+              -42.819993,
+              -5.085352
+            ]
+          ]
+        }
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 3,
+          "name": "Zona de Possível Ocorrência"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -42.818845,
+                -5.087560
+              ],
+              [
+                -42.818009,
+                -5.089206
+              ],
+              [
+                -42.816063,
+                -5.088196
+              ],
+              [
+                -42.816924,
+                -5.086487
+              ]
+
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 4,
+          "name": "Zona Perigosa"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -42.842472,
+                -4.995941
+              ],
+              [
+                -42.826621,
+                -4.991963
+              ],
+              [
+                -42.824425,
+                -4.995579
+              ],
+              [
+                -42.839047,
+                -5.001858
+              ]
+              
+            ]
+          ]
+        }
+      }
+    ]
+  }
